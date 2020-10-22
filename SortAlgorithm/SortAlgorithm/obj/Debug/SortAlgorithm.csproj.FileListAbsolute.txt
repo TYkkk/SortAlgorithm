@@ -1,0 +1,6 @@
+D:\VSWorkSpace\SortAlgorithm\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe
+D:\VSWorkSpace\SortAlgorithm\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+D:\VSWorkSpace\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csprojAssemblyReference.cache
+D:\VSWorkSpace\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.CoreCompileInputs.cache
+D:\VSWorkSpace\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.exe
+D:\VSWorkSpace\SortAlgorithm\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.pdb
